@@ -5,7 +5,7 @@ DESCRIPTION = "Jochen layers it on ^^"
 LICENSE = "GPLv2"
 LIC_FILES_CHKSUM = "file://LICENSE;md5=b234ee4d69f5fce4486a80fdaf4a4263"
 
-SRC_URI = "https://github.com/abiasci/wg-automotive-safety-app.git;branch=control_pipe;protocol=https;"
+SRC_URI = "git://github.com/abiasci/wg-automotive-safety-app.git;branch=control_pipe;protocol=https;"
 
 SRCREV = "eb75174f4e18d7f34628ec38d54cfc9a493426df"
 
